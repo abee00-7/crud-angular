@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {
+      "id": "de46",
+      "name": "Abhinav Narayanan",
+      "email": "abhinavnarayana800@gmail.com",
+      "place": "periya,kerala",
+      "status": "Inactive"
+    }
+  ]
+}
